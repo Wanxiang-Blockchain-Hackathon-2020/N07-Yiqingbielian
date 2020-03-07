@@ -22,7 +22,7 @@
   
   通过将原始文件上传IPFS后，提取IPFS HASH和文件MD5 HASH，以及提取文件上传时间作为原始数据进行二次零知识证明加密，从而达到对用户的原始文件进行确权和隐私保护等多重隐私计算等技术保障目的。设计关系图如下。
 
-![效果](https://github.com/lyp830414/wanxiang_hackthon2020_release/blob/master/chart_flow.png)
+![效果](https://github.com/Wanxiang-Blockchain-Hackathon-2020/N07-Yiqingbielian/blob/master/chart_flow.png)
 
 
 ## 环境预装要求
